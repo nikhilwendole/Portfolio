@@ -6,19 +6,19 @@ export default function Projects() {
       title: "Portfolio Website",
       desc: "A premium glossy portfolio built with React, Vite, and Tailwind.",
       img: "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800",
-      link: "https://your-portfolio-live-link.com", // OPEN WHEN CLICKED
+      link: "https://portfolio-81sq.vercel.app/#contact", // OPEN WHEN CLICKED
     },
     {
       title: "E-Commerce App",
       desc: "A MERN stack e-commerce store with cart, auth, and admin panel.",
       img: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800",
-      link: "https://your-ecommerce-live.com",
+      link: "https://computer-town-final-9zem.vercel.app/",
     },
     {
-      title: "AI Chat App",
-      desc: "AI chatbot using Node, Express and OpenAI API.",
+      title: "Hospital Management System",
+      desc: "React,Node,Express and MongoDB .",
       img: "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=800",
-      link: "https://your-ai-project.com",
+      link: "",
     },
   ];
 
