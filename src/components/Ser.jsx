@@ -1,5 +1,4 @@
-// ServicesPage.jsx — Ultra Premium Services Page
-// React + Tailwind + Framer Motion (Vite compatible)
+
 
 import React from "react";
 import { motion } from "framer-motion";

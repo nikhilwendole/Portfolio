@@ -6,7 +6,10 @@ import About from './components/About'
 import PricingPage from './components/Pricingpage'
 import Contact from './components/Contact'
 import Projects from './components/Projects'
-import Services from './components/services'
+
+
+import Services from './components/Ser'
+
 
 
 const App = () => {
