@@ -5,7 +5,7 @@ import React from "react";
 import { motion } from "framer-motion";
 import { Code, Sparkles, Bot, Layers, Globe, Wrench } from "lucide-react";
 
-export default function ServicesPage() {
+export default function Services() {
   const services = [
     {
       title: "Full-Stack Web Development",
